@@ -1,0 +1,23 @@
+{
+  "name": "369",
+  "version": "1.0.0",
+  "description": "three, six and nine",
+  "license": "MIT",
+  "repository": "jlobos/369",
+  "author": "Jesús Lobos <jlobitu@gmail.com>",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "three",
+    "six",
+    "nine"
+  ],
+  "devDependencies": {
+    "ava": "^0.19.1"
+  }
+}
