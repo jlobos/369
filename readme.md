@@ -6,13 +6,13 @@
 > “If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.”
 > ― <cite>Nikola Tesla</cite>
 
-# Install
+## Install
 
 ```bash
 $ npm install --save 369
 ```
 
-# Usage
+## Usage
 
 ```js
 const { three, six, nine, divisible } = require('369')
@@ -23,7 +23,7 @@ console.log(nine) // 9
 console.log(divisible(3 + 6 + 9)) // true
 ```
 
-# Test
+## Test
 
 ```bash
 $ awk '{print length($0);}' index.js
@@ -32,5 +32,6 @@ $ npm install
 $ npm test
 ```
 
-# License 
+## License 
+
 MIT
